@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ijin-nih-bang.github.io/Seovet-washere/sitemap.xml
